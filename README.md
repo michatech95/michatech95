@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, I'm Micha👋
+<a href="https://.linkedin.com/in/ramicha-rowland-318256392/
 <!--
 **michatech95/michatech95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
