@@ -3,10 +3,10 @@
 <a href="https://linkedin.com/in/ramicha-rowland-318256392/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Brief Introduction
-Hi! I'm Micha I am an aspiring SOC analyst transitioning from a career in IT helpdesk and technical support. I'm building hands-on cybersecurity skills through labs, projects, and practical learning in Blue Team operations. I possess a profound interest in technology and a dedication to solving complex problems.
+Hi! I'm Micha I am an aspiring tech enthusiast transitioning from a career in IT helpdesk and technical support. I'm building hands-on cybersecurity skills through labs, projects, and practical learning in Blue Team operations. I possess a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-- My career in technical support has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+- My career in technical support has led me to develop a passion for tech and troubleshooting computers, and I am eager to transition into this field!
 ## I'm Currently Learning
 - Cybersecurity fundamentals,
 - Security Operations (SOC) Basics,
